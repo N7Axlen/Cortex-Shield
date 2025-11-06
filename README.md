@@ -980,7 +980,7 @@ Having issues? Check:
 
 ### v1.0.0 (Current)
 - Initial release
-- 8 security modules
+- 9 security modules
 - Gemini AI integration
 - Beautiful UI with animations
 - Demo mode support
@@ -988,5 +988,6 @@ Having issues? Check:
 ---
 
 **Built with ❤️ for security professionals and enthusiasts**
+
 
 *Star ⭐ this repo if you find it helpful!*
